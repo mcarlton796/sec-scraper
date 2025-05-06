@@ -1,5 +1,5 @@
 # SEC Form 4 Webscraper
-Small script that scrapes information from [Open Insider](openinsider.com) and stores it in a pandas dataframe.
+Small script that scrapes information from [Open Insider](http://openinsider.com) and stores it in a pandas dataframe.
 
 ## Getting Started
 This uses Python 3.12.5, any version above 3.7 *should* work fine.
@@ -22,4 +22,4 @@ In the venv, install the required packages
 
 **4. Enjoy** :smile:
 
-This is a fairly open ended script, use this for your trading algorithms or AI training. By the way, the [Open Insider](openinsider.com) platform is built off a few APIs from the SEC, you can find more infomration on that [here](https://www.sec.gov/search-filings/edgar-application-programming-interfaces).
+This is a fairly open ended script, use this for your trading algorithms or AI training. By the way, the [Open Insider](http://openinsider.com) platform is built off a few APIs from the SEC, you can find more infomration on that [here](https://www.sec.gov/search-filings/edgar-application-programming-interfaces).
